@@ -14,6 +14,7 @@ Doroshkin, Alexander A., et al. "Experimental study of LoRa modulation immunity 
 ## APA style
 
 American Psychology Association 
+
 Mainly in social sciences
 
 J. Zyren, A. Petrick, Application Note AN9804, Harris Semiconductor 31 (1998).
