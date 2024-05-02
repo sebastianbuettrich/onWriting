@@ -1,3 +1,5 @@
+Acceptable Citation styles in order of my (sebastian's) preference.
+
 
 ## IEEE style
 
@@ -20,4 +22,10 @@ Mainly in social sciences
 J. Zyren, A. Petrick, Application Note AN9804, Harris Semiconductor 31 (1998).
 
 Doroshkin, A. A., Zadorozhny, A. M., Kus, O. N., Prokopyev, V. Y., & Prokopyev, Y. M. (2019). Experimental study of LoRa modulation immunity to Doppler effect in CubeSat radio communications. IEEE Access, 7, 75721-75731.
+
+## Note on online citations
+
+Give URL, always with "last accessed" info.
+
+Link to https://archive.org/ is useful.
 
