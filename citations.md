@@ -7,6 +7,10 @@ https://pitt.libguides.com/citationhelp/ieee
 
 [1] A. A. Doroshkin, A. M. Zadorozhny, O. N. Kus, V. Yu. Prokopyev, and Y. M. Prokopyev, “Experimental Study of LoRa Modulation Immunity to Doppler Effect in CubeSat Radio Communications,” IEEE Access, vol. 7, pp. 75721–75731, 2019, doi: https://doi.org/10.1109/access.2019.2919274.
 
+## ACM citation style
+
+https://www.acm.org/publications/authors/reference-formatting
+
 ## MLA style
 
 Zyren, Jim, and Al Petrick. "Tutorial on basic link budget analysis." Application Note AN9804, Harris Semiconductor 31 (1998).
